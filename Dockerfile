@@ -17,7 +17,7 @@ COPY . .
 # Set environment variables
 
 # Expose port 8081
-EXPOSE 3030
+EXPOSE 8080
 
 # Run database migrations
 CMD npm start
