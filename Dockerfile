@@ -16,7 +16,7 @@ COPY . .
 
 # Set environment variables
 
-# Expose port 8084
+# Expose port 8081
 EXPOSE 8081
 
 # Run database migrations
